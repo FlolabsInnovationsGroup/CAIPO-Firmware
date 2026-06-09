@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "xiao ESP32S3_PCB")(type "KiCad")(uri "${KIPRJMOD}/ESP32 S3/MOUDLE14P-SMD-2.54-21X17.8MM.pretty")(options "")(descr ""))
+  (lib (name "3006")(type "KiCad")(uri "${KIPRJMOD}/Speaker Module/3006")(options "")(descr ""))
+  (lib (name "Battery charging module")(type "KiCad")(uri "${KIPRJMOD}/Battery charging module")(options "")(descr ""))
+  (lib (name "raspberry pi")(type "KiCad")(uri "${KIPRJMOD}/raspberry pi")(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"BT1","1","Li-ion 3.7V","","","","","~"
+"U1","1","MOUDLE-SEEEDUINO-XIAO-ESP32S3","","","","xiao ESP32S3_PCB:MOUDLE14P-SMD-2.54-21X17.8MM",""
+"U2","1","TTP223","","","","",""
+"U3","1","uxcell","","","","",""
+"U4","1","MAX98357","","","","3006:MODULE_3006",""
