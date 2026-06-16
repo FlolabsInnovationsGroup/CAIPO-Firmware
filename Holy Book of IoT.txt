@@ -1,0 +1,35 @@
+Masterclass sources:
+
+
+Research about competitors...
+
+why c++? and what is the difference between C series
+https://www.youtube.com/watch?v=sNMtjs_wQiE
+
+C++ Course:
+https://www.youtube.com/watch?v=vLnPwxZdW4Y	
+Python Course:
+https://www.youtube.com/watch?v=rfscVS0vtbw
+
+Video about ESP config on VSCode
+
+Breadboard:
+https://www.youtube.com/watch?v=w0c3t0fJhXU
+
+Electronics:
+https://www.youtube.com/watch?v=DUbgaK2vHvA
+
+I2C, SPI, UART Protocols
+https://www.youtube.com/watch?v=IjjZcnwkrAg
+
+A little code basics video
+
+
+
+"""
+Make modules about specific context!!!!
+Make a video about STMCubeIDE or any IDE
+DMA, CRC32, CAN, RTOS, Debugging technics, Clock Configuration, Timers, ADC configuration.
+"""
+
+HackerRank assessment maybe??
